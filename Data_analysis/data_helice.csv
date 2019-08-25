@@ -1,0 +1,19 @@
+code helice;pitch;diametre;description
+1;4.3;9;HQprop 0943 Multirotor
+2;4.5;9;HQprop 0945 Multirotor
+3;4.7;9;HQprop 0947 Slow-Flyer
+4;5.0;9;HQprop 0950 Thin Electric
+5;4.5;10;HQprop 1045 Multirotor
+6;4.5;10;HQprop 1045 Slow-Flyer
+7;4.7;10;HQprop 1047 Slow-Flyer
+8;5.0;10;HQprop 1050 Thin Electric
+9;4.5;9;APC 0945 Multirotor
+10;4.7;9;APC 0947 Slow-Flyer
+11;4.7;10;APC 1047 Slow-Flyer
+12;4.5;10;APC 1045 Multirotor
+13;5.5;10;APC 1047 Multirotor
+14;0.0;0;ERROR
+15;3.8;10;Gemfan 1038
+16;4.5;10;Gemfan 1045
+17;4.0;9;Graupner 0940
+18;4.0;10;Graupner 1040
